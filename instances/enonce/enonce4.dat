@@ -1,0 +1,14 @@
+// Une variante de l'instance 2 sur une journdée de 7h à 21h
+
+instance =
+	< "enonce/enonce4",
+	  {
+	  	"../../../data/txt/instances/enonce/journee7-21.txt",
+	  	"../../../data/txt/instances/enonce/soins1.txt",
+	  	"../../../data/txt/instances/enonce/adresses1.txt",
+	  	"../../../data/txt/instances/enonce/infirmiere1.txt",
+	  	"../../../data/txt/instances/enonce/indispo1.txt",	 
+	  	"../../../data/txt/actes.txt"
+	  }
+    >;
+

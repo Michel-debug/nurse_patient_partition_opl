@@ -1,0 +1,18 @@
+soins Jean_DUPONT				TL1+MD1:matin
+soins Marie_BEL       			TSA+MD1:[8h30-10h00]
+soins Eric_BRY 	    			IIM
+soins Wassim_MICHAUD			TL1+MD1:matin
+soins Soline_DUMONT				MD1:midi
+
+soins Giulia_HOARAU				PS1:[12h30-14h00]
+soins Léonie_LAMY				TL2+MD2:matin
+soins Tom_LECOMTE				MD1+IID:soir
+soins Yasmine_BARTHELEMY		MD2:matin
+soins Luna_DAVID				CGL:[7h30-8h]
+
+soins Tiago_BOYER				CSUH:apresmidi
+soins Rose_GERMAIN				MD1
+soins Nour_BESSON				MD2:soir
+soins Gaspard_LEJEUNE			MD1
+soins Jules_BENARD				IID:[14h-17h]
+

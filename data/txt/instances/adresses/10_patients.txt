@@ -1,0 +1,11 @@
+adresse   Jean_DUPONT		8 Place du Patrouillot, 91530 Le Val-Saint-Germain
+adresse   Marie_BEL         19 Sente des Sablons, 91530 Saint-Chéron
+adresse  Eric_BRY 	        12 Rue Regnard, 91410 Dourdan, France
+adresse Wassim_MICHAUD		5 Rue Jules Ferry, 91410 Dourdan, France	
+adresse Soline_DUMONT		3 Impasse des Merisiers, 91410 Les Granges-le-Roi, France	
+
+adresse Giulia_HOARAU		42 Place du Buisson Fleuri, 91530 Sermaise, France	
+adresse Léonie_LAMY			31 Place de Villeneuve, 91530 Sermaise, France	
+adresse Tom_LECOMTE			50 Rue de l'Orme Creux, 91410 Corbreuse, France	
+adresse Yasmine_BARTHELEMY	5 Allée des Erables, 91530 Saint-Maurice-Montcouronne, France	
+adresse Luna_DAVID			27 Rue des Pavillons, 91410 Authon-la-Plaine, France	

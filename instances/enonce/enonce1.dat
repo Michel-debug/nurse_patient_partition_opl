@@ -1,0 +1,8 @@
+// Un exemple d'instance où toutes les données sont décrites dans un même fichier texte
+
+instance =
+	< "enonce/enonce1",
+	  {
+	  	"../../../data/txt/instances/enonce/enonce1.txt"
+	  }
+    >;

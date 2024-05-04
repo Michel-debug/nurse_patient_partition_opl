@@ -1,0 +1,13 @@
+// Un exemple d'instance ou toutes les données sont décrites dans un même fichier texte
+
+instance =
+	< "medium/medium_10_15_d_2",
+	  {
+	  	"../../../data/txt/instances/jours/journee7-21.txt",
+	  	"../../../data/txt/instances/inf/sophie.txt",
+	  	"../../../data/txt/instances/adresses/cabinet_Dourdan.txt",
+	  	"../../../data/txt/instances/adresses/15_patients.txt",
+	  	"../../../data/txt/instances/soins/soins_15_20_2.txt",
+		"../../../data/txt/actes.txt"
+	  }
+    >;

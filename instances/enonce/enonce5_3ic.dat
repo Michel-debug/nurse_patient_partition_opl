@@ -1,0 +1,18 @@
+// Une variante de l'instance enonce4 avec 3 infirmières
+// et des horaires variables
+
+// De façon générale, lorsque vous creez une instance pour faire des tests
+// Pensez à mettre en commentaire ce que vous voulez tester ou vérifier.
+
+instance =
+	< "enonce/enonce5_3ic",
+	  {
+	  	"../../../data/txt/instances/enonce/journee7-21.txt",
+	  	"../../../data/txt/instances/enonce/soins1.txt",
+	  	"../../../data/txt/instances/enonce/adresses1.txt",
+	  	"../../../data/txt/instances/inf/anne_sophie_7-14_judith_14_21.txt",
+	  	"../../../data/txt/instances/enonce/indispo1.txt",	 
+	  	"../../../data/txt/actes.txt"
+	  }
+    >;
+

@@ -1,0 +1,60 @@
+// Remarque : 
+// Cette liste ne prétend pas être exhaustive
+// Les codes d'actes, les durées indiquées et les descriptions sont purement imaginaires
+
+// Actes Médicaux Infirmiers
+acte	PPV     15		Prélèvement par ponction veineuse directe 
+acte	SAI		25		Saignée
+acte	PLC      5		Prélèvement aseptique cutané
+acte	PLU     15		Prélèvement d'urine
+acte	PLS     15		Prélèvement de selles
+acte	PLM     10		Prélèvement des Mucqueses
+acte	PS1		10		Prise de sang		
+acte	PS2		15		Prise de sang (>5)		
+
+acte	IIM      5	 	Injection intramusculaire
+acte	IID      5	 	Injection intradermique
+acte	IIV     10	 	Injection intraveineuse
+acte	IVR     25	 	Injection en goutte à goutte par voie rectale
+acte	ISC      5	 	Injection sous-cutanée
+
+acte	PS1     10		Pansements courants
+acte	PS22     20		Pansements complexes
+acte	PSL     30		Pansements lourds
+acte	PSM     25		Pansement chirurgical nécessitant un méchage ou une irrigation
+acte	PBE     45		Pansement de brulures etendues
+acte	AF1     15		Ablation de fils ou d'agrafes (=<10)
+acte	AF2     25		Ablation de fils ou d'agrafes (>10)
+
+acte	PSG    20		Pose de sonde gastrique
+acte	AEG    25		Alimentation entérale par gavage
+acte	AEJ    25		Alimentation entérale par voie jéjunale
+
+acte	AVP		10	    Séance d'aérosols à visée prophylactique
+acte	LS1		15	    Lavage d'un sinus
+acte	LS2		25	    Lavage des 2 sinus
+
+acte	IJV		10	    Injection vaginale
+acte	SGC		15	    Soins gynécologiques après curiethérapie
+acte	CUF		20	    Cathétérisme urétral chez la femme
+acte	CUH		25	    Cathétérisme urétral chez l'homme
+acte	CSUF	20	    Changement de sonde urinaire à demeure chez la femme 
+acte	CSUH	30		Changement de sonde urinaire à demeure chez l'homme
+acte	PEP		 5	    Pose isolée d'un étui pénien
+
+acte	SBMR    10		Soins de bouches / médicamenteux après radiothérapie
+acte	LVEM    25		Lavement évacuateur ou médicamenteux
+
+
+// Actes de Soins Infirmiers
+acte	TL1     15		Toilette simple
+acte	TL2     25		Toilette complète
+acte	TL3     35		Toilette complexe
+acte	MD1     5		Administration médicamenteuse orale
+acte	MD2     10		Administration médicamenteuse orale lente
+acte	MD3     15		Administration médicamenteuse orale complexe
+acte	CGL     10		Controle Glycemie
+acte    TSA      5      Prise de tension artérielle
+
+//....
+

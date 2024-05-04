@@ -1,0 +1,17 @@
+// Un exemple pour tester une indisponibilité d'un patient
+// 1 patient, 1 soin le matin
+// 1 indisponibilite patient de 7h05->8h30
+// => soin programmé à 10h00 -> 10h20
+instance =
+	< "test/test_ind_p1_ip1",
+	  {
+	  	"../../../data/txt/instances/jours/journee7-21.txt",
+	  	"../../../data/txt/instances/inf/sophie.txt",
+	  	"../../../data/txt/instances/adresses/cabinet_Dourdan.txt",
+	  	"../../../data/txt/instances/adresses/1_patient.txt",
+	  	"../../../data/txt/instances/soins/soins_1.txt",
+	  	"../../../data/txt/instances/indispos/i3_Jean_DUPONT_7h05-10h.txt",
+		"../../../data/txt/actes.txt"
+	  }
+    >;
+

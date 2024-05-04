@@ -1,0 +1,14 @@
+// Un exemple pour tester
+// Exemple tres simple avec 1 patient, 1 soin le matin
+// => soin programmé à 7h10->7h30
+instance =
+	< "test/test_ind_p1",
+	  {
+	  	"../../../data/txt/instances/jours/journee7-21.txt",
+	  	"../../../data/txt/instances/inf/sophie.txt",
+	  	"../../../data/txt/instances/adresses/cabinet_Dourdan.txt",
+	  	"../../../data/txt/instances/adresses/1_patient.txt",
+	  	"../../../data/txt/instances/soins/soins_1.txt",
+		"../../../data/txt/actes.txt"
+	  }
+    >;

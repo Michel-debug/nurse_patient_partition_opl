@@ -1,0 +1,32 @@
+// Un exemple de fichier d'instance illustrant différents types de données possibles
+
+journee 7h 20h30 
+
+soins   Jean_DUPONT		TL1+MD1:matin		         TL2+MD2:soir
+
+soins   Marie_BEL	 		TSA+MD1:[8h30-10h00] 		PS1:[12h30-14h00]		MD1+IID:soir
+soins   Marie_BEL	 		CGL:[7h30-8h] 		
+
+soins   Eric_BRY           IIM       2h<<3h             CSUH          4h<<6h       MD1
+
+indisponibilite    Eric_BRY    14h 16h    	 
+
+adresse cabinet 				7 Rue Jubé de la Perelle, Dourdan
+
+adresse   Jean_DUPONT        8 Place du Patrouillot, 91530 Le Val-Saint-Germain
+adresse   Marie_BEL          19 Sente des Sablons, 91530 Saint-Chéron
+adresse  Eric_BRY 	         12 Rue Regnard, 91410 Dourdan, France
+
+infirmiere Sophie
+
+acte	CGL     10		Controle Glycemie
+acte	MD1     5		Administration médicamenteuse orale
+acte	MD2     10		Administration médicamenteuse orale lente
+acte	PS1     10		Pansements courants
+acte	IID      5	 	Injection intradermique
+acte	IIM      5	 	Injection intramusculaire
+acte	CSUH	30		Changement de sonde urinaire à demeure chez l'homme
+acte	TL1     15		Toilette simple
+acte	TL2     25		Toilette complète
+acte    TSA      5 		Prise de tension artérielle
+

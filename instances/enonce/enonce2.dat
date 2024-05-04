@@ -1,0 +1,19 @@
+// Un exemple d'instance où les données sont réparties dans plusieurs fichiers
+
+// Il est facile de créer des variantes d'un instance en dupliquant une instance (le fichier .dat)
+// et en changeant/commentant un plusieurs des fichiers, sans toucher au reste
+
+// Conseil : donnez des noms pertinents à vos instances
+
+instance =
+	< "enonce/enonce2",
+	  {
+	  	"../../../data/txt/instances/enonce/journee7-20.txt",
+	  	"../../../data/txt/instances/enonce/soins1.txt",
+	  	"../../../data/txt/instances/enonce/adresses1.txt",
+	  	"../../../data/txt/instances/enonce/indispo1.txt",
+	  	"../../../data/txt/instances/enonce/infirmiere1.txt",
+	  	"../../../data/txt/actes.txt"
+	  }
+    >;
+

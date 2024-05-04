@@ -1,0 +1,14 @@
+//10-15  (2)
+
+soins Jean_DUPONT				TL1+MD1:[8h-9h]					MD1:[19h-20h]
+soins  Marie_BEL       			TSA+MD1:[8h30-10h00]
+soins Eric_BRY 	    											IIM:soir
+soins Wassim_MICHAUD			TL1+MD1:matin					MD1:midi
+soins Soline_DUMONT				MD1:[11h30-13h00]				MD1+IID:soir
+
+soins Giulia_HOARAU				PS1:[12h30-14h00]
+soins Léonie_LAMY				TL2+MD2:[7h30-9h30]	
+soins Tom_LECOMTE				MD2:[9h00-10h30]   				MD1+IID:soir
+soins Yasmine_BARTHELEMY		MD2:matin			
+soins Luna_DAVID				CGL:[7h30-8h]
+

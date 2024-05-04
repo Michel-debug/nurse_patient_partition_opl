@@ -1,0 +1,2 @@
+soins Jean_DUPONT				TL1+MD1:matin
+soins  Marie_BEL       			TSA+MD1:[8h30-11h30]

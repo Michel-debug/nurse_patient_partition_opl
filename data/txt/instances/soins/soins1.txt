@@ -1,0 +1,12 @@
+
+// Exemple de soin avec des crénaux symboliques
+soins   Jean_DUPONT		TL1+MD1:matin  TL2+MD2:soir
+
+// Exemple de soin avec des crénaux horaires numériques
+soins   Marie_BEL  TSA+MD1:[8h30-10h00]   PS1:[12h30-14h00] MD1+IID:soir
+
+// Une soin supplémentaire pour la personne précédente
+soins   Marie_BEL	 		CGL:[7h30-8h] 		
+
+// Des soins sans contraintes horaires mais avec contraintes d'espacement
+soins   Eric_BRY           IIM       2h<<3h             CSUH          4h<<6h       MD1

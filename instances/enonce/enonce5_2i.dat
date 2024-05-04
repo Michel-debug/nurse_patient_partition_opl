@@ -1,0 +1,17 @@
+// Une variante de l'instance ennonce4 avec 2 infirmières
+
+// De façon générale, lorsque vous creez une instance pour faire des tests
+// Pensez à mettre en commentaire ce que vous voulez tester ou vérifier.
+
+instance =
+	< "enonce/enonce5_2i",
+	  {
+	  	"../../../data/txt/instances/enonce/journee7-21.txt",
+	  	"../../../data/txt/instances/enonce/soins1.txt",
+	  	"../../../data/txt/instances/enonce/adresses1.txt",
+	  	"../../../data/txt/instances/inf/sophie_judith.txt",
+	  	"../../../data/txt/instances/enonce/indispo1.txt",	 
+	  	"../../../data/txt/actes.txt"
+	  }
+    >;
+

@@ -1,0 +1,2 @@
+// 1 seul soin
+soins   Jean_DUPONT		TL1+MD1:matin

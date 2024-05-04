@@ -1,0 +1,14 @@
+// Une variante de l'instance 2 (juste pour illustrer)
+
+instance =
+	< "enonce/enonce3",
+	  {
+	  	"../../../data/txt/instances/enonce/journee7-20h30.txt",  // horaires modifiés
+	  	"../../../data/txt/instances/enonce/soins1.txt",
+	  	"../../../data/txt/instances/enonce/adresses1.txt",
+	  	"../../../data/txt/instances/enonce/infirmiere1.txt",
+//  	"../../../data/txt/instances/enonce/indispo1.txt",		   // ligne commentée
+	  	"../../../data/txt/actes.txt"
+	  }
+    >;
+
